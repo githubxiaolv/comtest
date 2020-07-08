@@ -14,6 +14,7 @@ public class TestMain {
         //dev
         int max = max(arr);
         System.out.println("最大值"+max);
+
     }
 
     /**

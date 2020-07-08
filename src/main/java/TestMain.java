@@ -11,6 +11,7 @@ public class TestMain {
        // int arr[]={10,9,8,9,9,10};
         //int arr[] = {1, 2, 4, 5, 6, 7};
         int arr[] = {9, 8, 7, 8, 15, 14};
+        
 
         int max = max(arr);
         System.out.println("最大值"+max);
